@@ -1,0 +1,8 @@
+node_modules/
+src/
+vite.config.js
+*.log
+*.md
+
+.DS_Store
+.vscode/
